@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Coffee",
+        "price": 15,
+        "stock": 26
+    },
+    {
+        "name": "Tea",
+        "price": 10,
+        "stock": 60
+    },
+    {
+        "name": "Samosa",
+        "price": 20,
+        "stock": 30
+    }
+]
